@@ -1,1 +1,1 @@
-FROM juice-shop/juice-shop
+FROM bkimminich/juice-shop
